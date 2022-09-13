@@ -1,0 +1,28 @@
+
+.item img {
+    width: 64px;
+}
+.item1 img {
+    width: 70px;height: 57px;
+}
+
+.item {
+    align-items: center;
+    margin: 0px 15px;
+    text-align: center;
+}
+
+
+
+
+.item a:hover {
+    color: rgb(255, 34, 0);
+}
+
+
+
+.carousel-item{
+    min-height: 280px;
+}
+
+  
